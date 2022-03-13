@@ -1,0 +1,89 @@
+    @media screen and (max-width: 654px) {
+        .items {
+            display: none;
+        }
+        .box_none {
+            display: flex;
+        }
+        .logo_text {
+            margin-right: 5px;
+        }
+    }
+    
+    @media screen and (max-width: 656px) {
+        .title_two {
+            font-size: 50px;
+            line-height: 50px;
+        }
+        .title_one {
+            font-size: 50px;
+            line-height: 50px;
+        }
+    }
+    
+    @media screen and (max-width: 424px) {
+        .title_two {
+            font-size: 30px;
+            line-height: 30px;
+        }
+        .title_one {
+            font-size: 30px;
+            line-height: 30px;
+        }
+    }
+    
+    @media screen and (max-width: 575px) {
+        .two_text {
+            margin: 0 auto;
+            text-align: center;
+        }
+        .title_four {
+            text-align: center;
+        }
+        .box_mm {
+            display: flex;
+            justify-content: center;
+        }
+    }
+    
+    @media screen and (max-width: 617px) {
+        .three_title {
+            font-size: 30px;
+        }
+    }
+    
+    @media screen and (max-width: 826px) {
+        .box_media {
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+        }
+        .person_name {
+            margin: 0 auto;
+        }
+        .box_media_two {
+            display: flex;
+            justify-content: center;
+        }
+    }
+    
+    @media screen and (max-width: 672px) {
+        .footer_bigbox {
+            display: flex;
+            align-items: center;
+        }
+    }
+    
+    @media screen and (max-width: 497px) {
+        .footer_box {
+            margin: 0 auto;
+            margin-bottom: 20px;
+        }
+        .search_box {
+            margin: 0 auto;
+            margin-bottom: 20px;
+        }
+        .footer_text_two {
+            margin: 0 auto;
+        }
+    }
